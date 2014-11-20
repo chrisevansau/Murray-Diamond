@@ -227,7 +227,6 @@
                     ?>
                         
                     <span class="copyright">
-                        <?php _e('Powered by' , 'unitedthemes'); ?> <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'unitedthemes' ); ?>" data-rel="generator"><?php printf( __( ' %s', 'unitedthemes' ), 'WordPress' ); ?></a>
                        Copyright Murray Diamond 2014 ©
                     </span>
                         
