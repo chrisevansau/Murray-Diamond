@@ -262,7 +262,7 @@
 		     
      /* ]]> */
     </script> 
-    
+    <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us11.list-manage.com","uuid":"75032f4cab6820789dba3834a","lid":"000eba02ce"}) })</script>
     </div><!-- close #main-content -->
 	            
     </body>
